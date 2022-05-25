@@ -2,8 +2,11 @@
 
 ## Requirements
 Python3
+
 Numpy
+
 Language corpus files in the form of .txt files must be present in the following format:
+
 ```
 input_{language1}.txt
 input_{language2}.txt
