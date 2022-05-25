@@ -18,6 +18,7 @@ These can be simple ebooks. In utils.py, a simple text file trimmer is included 
 ## Usage
 
 Download the repository, unzip the files to a folder
+
 Open a command prompt and direct it to that folder, then
 ```
 python3 main.py lang1 lang2 {file_to_classify.txt}
